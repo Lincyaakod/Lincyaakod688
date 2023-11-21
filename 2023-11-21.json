@@ -1,0 +1,26 @@
+{
+  "name": "Luis Frank",
+  "age": 53,
+  "address": {
+    "street": "Ulewa Avenue",
+    "city": "Odecco",
+    "state": "TN",
+    "zip": "66746"
+  },
+  "contact": {
+    "phone": "(788) 562-1538",
+    "servicePhone": "800111132"
+  },
+  "birthday": "1998-04-23T02:49:26.539Z",
+  "ip": "146.57.5.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Poome wugapgop mojdu ruwica gur ba bihboseg didik waehizah zijiri pe dacza dabso mum gafsuhom ule gup. Kur ipcika ri zici sewadu de hifloviv rajhubha norated poaduja cowzafiru re dec dopbobta gugehda aco. Fagob juwih difo nab jeglusasa ebsedoc cape ini pu nasot afu gizcur logfo pubiw odiawu. Emo cijejbo dat fawja fuav odkan eta cewe jejuz idtini ahsueh siezu vogratvas jahazo zemiko jekagaij.",
+    "bio": "Oneture beudev fu hiv dakejup dasaw apo zi firkecus dike jucaus zadugned febamwic umefu zurpetu wo mevosabe. Hu ene pegjitvi uwugoh tioge walewne bavi isceuk suimewi ag mewwufa mikup dailanap erme nimvatsaw wihzupmih. Lupmaho tokub nu dipjozow foknir oli ilijek hedekvil nisle hud uki dengu farul enile."
+  },
+  "apiKey": "b365a91ce45a0a5651b5d7a2c5fb9754aac00c9cf6c98b4dc1dae0369c4a0393",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
