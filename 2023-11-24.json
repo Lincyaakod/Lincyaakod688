@@ -1,0 +1,26 @@
+{
+  "name": "Adelaide Perez",
+  "age": 20,
+  "address": {
+    "street": "Mumami Drive",
+    "city": "Fihwakof",
+    "state": "RI",
+    "zip": "20440"
+  },
+  "contact": {
+    "phone": "(703) 239-8397",
+    "servicePhone": "800547949"
+  },
+  "birthday": "1959-04-05T00:50:00.349Z",
+  "ip": "229.231.175.83",
+  "foo": "bar",
+  "profile": {
+    "about": "Abiho neicha ra gebuhale lojab ow egzor hegornuh noliwo si amiku cimavwi wieto ihosav. Ajbawin ruzga najfedfa ijiam zenu ziheg pibivhac hos fonek seruvu li gac wafkotew. Bud gesvuluz jutoplej fig neifego figbi mowgomi zal delodhi vij nuh ipeolawud zuc aw. Az jedjo kolicu itazoji inuofot zatugeb suplof vil cuhlus enfuvzu ecmuntan sujnak veuromeg alo. Ca nuluk romos pasadurid vuwudpek amgiznam hopeco ha daluuho azosu af zopapebid vimi dot.",
+    "bio": "Sivga vih mav ma zu het waz kilnenin vawza wucille midmi ewudofob. Rokahad po cebdog re omi besut ovi pom fednide lafepas wivzemuh duvol af no fizkagud irufu diavikuz. Kew zorjep lopi mefut caug con bol vurjez luji meduka bimu aro valsiug ojro. Vimja uticuneh bicrizpa rub rursuwzuj beweug dumwada heebak coobsa jogalic pemugza cez rop hehada petaw. Ren up aw leenewe zimuhme cicfed cewnatdo jur ilime mebvucmap vi oc."
+  },
+  "apiKey": "9d02535b1b441caf916ac24de7abd227108984b30f357c47f9603c3de9594615",
+  "currency": {
+    "code": "TND",
+    "name": "Tunisia Dinar"
+  }
+}
