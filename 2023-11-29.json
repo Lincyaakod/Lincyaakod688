@@ -1,0 +1,26 @@
+{
+  "name": "John Parker",
+  "age": 58,
+  "address": {
+    "street": "Vilhu Trail",
+    "city": "Mifaano",
+    "state": "SD",
+    "zip": "09164"
+  },
+  "contact": {
+    "phone": "(806) 681-2462",
+    "servicePhone": "800991646"
+  },
+  "birthday": "1983-04-17T20:10:55.184Z",
+  "ip": "77.141.206.180",
+  "foo": "bar",
+  "profile": {
+    "about": "Asiruihu le pi lilciv mingasuh fehalac devfi joge ro ronvo wiutmop donu isupbel. Gutfo juj ug ca rezlutad sogo funcurgu cutfa zawel henah zuk inhe fovu mol vabrili bihlo mizrelse bed. Bewo rem lehri decanul lihpurpu egmu ruev wih ovsac fajajo ercivfil nipicu ahom.",
+    "bio": "Iti ka bemorar taviv nof vu tuk kof iki hodtir palwud gukuteeni rene gofkow. Denog ed mema uwfozge firzosiko kouv dilatus don bac beptonew eke oj zudwucun to wofuvfib wac. Kujhivut ononu zeus fis limiz ej keloned hiv pi revgo selo labcijti. Zen fit vepovaif hacu cap ibvej af vu rigcobe iwo sucego jeeh. Osove ohopo tic pir bojogula toetobob ki sinilhic kezu wag velsi vad hir fehuk gumnaj boc."
+  },
+  "apiKey": "faac44b964b78470f02c92280e967cb216b89e505c56ffa2bb2a2c35a27a2dd9",
+  "currency": {
+    "code": "KGS",
+    "name": "Kyrgyzstan Som"
+  }
+}
