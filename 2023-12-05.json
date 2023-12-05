@@ -1,0 +1,26 @@
+{
+  "name": "Dennis Watkins",
+  "age": 31,
+  "address": {
+    "street": "Zava Square",
+    "city": "Tosokozu",
+    "state": "PA",
+    "zip": "43277"
+  },
+  "contact": {
+    "phone": "(450) 222-8753",
+    "servicePhone": "800365384"
+  },
+  "birthday": "1999-07-21T12:13:24.993Z",
+  "ip": "40.147.249.13",
+  "foo": "bar",
+  "profile": {
+    "about": "Ke iz efjeblak pavuhzuj mo deh ijafi andufpeb zepef gefo teho li gapaze tiejfim. Limoso rupcowu urkogwoj ju kipel biclihifi barjaed awrehidu ufidal bid mumta ekre juk doc. Hoan huiw le ijti mevgado caas vudtofis mo zalizioj gor pa amzi.",
+    "bio": "Fe decwiwo sujhidaj tufuvun ojru lut wu net hichekge imuipilu won jonabas amu isak uzcepbaw cut rid tuvravi. Beni dusazic jalpobwil ro modsebe zofalam zoftodhuj hesokib ogfejnos nicivep ali de muwbumlek tuzwepbu. Hep zazzewun toahba lot poane fumazbeb ben di res suitatur caduw za vizmiho afuga. Afca meldegdil dak ziruset iko kola ne buin ot lagimcej etgapnu vi gujucetor lemu sot id. Gade jew vevib ficule eja zota kobuh upunba liv firunu eh zuped ujuwojo."
+  },
+  "apiKey": "604a0d4bea76d59abc82b263e09da3a2d700117fb4146664b662547cc95ec540",
+  "currency": {
+    "code": "CHF",
+    "name": "Switzerland Franc"
+  }
+}
