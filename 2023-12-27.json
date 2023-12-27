@@ -1,0 +1,26 @@
+{
+  "name": "Shawn Smith",
+  "age": 34,
+  "address": {
+    "street": "Otfat Junction",
+    "city": "Rezavvif",
+    "state": "NM",
+    "zip": "60498"
+  },
+  "contact": {
+    "phone": "(813) 429-8439",
+    "servicePhone": "800962181"
+  },
+  "birthday": "1983-11-06T16:05:49.619Z",
+  "ip": "120.139.73.150",
+  "foo": "bar",
+  "profile": {
+    "about": "Mi po worasdum dohipmaj gegza ile zibofaro caw oje em bof nelsi luhi medimore. Kullat zasla hari be buaj ovese nelotkub torpodmu pofutga hiw siltezopi zorgijdiw. Vew misce vutamehem nis gomezsu mavke id jo idbij gevta koduz um necir titwozvov uji poz zatane ubujindu. Jim bofo atewni besgo ikgo pag zuli rul fu oja hicjetsar pavour.",
+    "bio": "Jiwate lusowiguk dobzib maomomo upunug gi opewet sow wimbejfe go jekkade zi alufutod zo togagane tofobeju vegpok bamhu. Mez jim ovodo liawizih awiverec cu me pagpumop ce kirechu rapak ruema lacic ma. Zulbe gu bo leworot doba zonec gu nobo giibat julo zisamji ru. Ha wulot ab jebakjuh dig zuzor ti mefumos ninik wufcege romfira wanesot enopu sose cu go. Tucuhura azo cahre poctucek vurfijet mik udisetit annoh foak fuez pagocu lihhu fuwcot gesge ilsag hofem jipel. Suc rimuawi picvud bob azidekfu mavom kehijwus hudda caulu sasgi gi hewico oslor."
+  },
+  "apiKey": "8f9230bff9d24278e08f875c0f9fcecd9c13a5ebcf89215a314a91556a707899",
+  "currency": {
+    "code": "MZN",
+    "name": "Mozambique Metical"
+  }
+}
