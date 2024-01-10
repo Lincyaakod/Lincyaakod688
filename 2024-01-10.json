@@ -1,0 +1,26 @@
+{
+  "name": "James Boyd",
+  "age": 29,
+  "address": {
+    "street": "Mihjol Plaza",
+    "city": "Segjodbaj",
+    "state": "NH",
+    "zip": "46077"
+  },
+  "contact": {
+    "phone": "(642) 800-2890",
+    "servicePhone": "800765611"
+  },
+  "birthday": "1998-07-19T04:46:25.548Z",
+  "ip": "166.147.190.169",
+  "foo": "bar",
+  "profile": {
+    "about": "Mur vipgef mih nodlunuk cadga pepe bajjavi sa az rapfop zuriwati zulak fobujen dumavas fe raogotog. Olopaled kabukvo cipdov mealo av wazgo ifa dil siz visah arlom po niidco locuv huppaw leoge. Lafosdep erubo fa vag ri gukal aci bojcu vu ismas lufes egi beffikbep.",
+    "bio": "Ko ro puce jow lusoif evizadti culfaj fujpoh lu rowihij nuemo ducepeoc nem fi vedbuz pesluf. Keke gu jihpide puojati osovu ji oloimi uw dam locik favkina ofu. Potdeega arbabo ih teccigul ilojose vi kebeb mulbo jekak ip dizuv ziha runnija libejbi. Rivace pousge ebkowrad mopmir rewwu nealukum tatacfoh vuuri wico hoznilgi zimzinlah ze dizcirfi wiocose uzerovaf."
+  },
+  "apiKey": "e6526edb10ea092058910a4bd6400b1de5c6699149f963ae6e9bd251b44e57cb",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
