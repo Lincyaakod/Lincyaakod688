@@ -1,0 +1,26 @@
+{
+  "name": "Alan Bowen",
+  "age": 52,
+  "address": {
+    "street": "Wuvina Grove",
+    "city": "Gamkovwep",
+    "state": "OR",
+    "zip": "61395"
+  },
+  "contact": {
+    "phone": "(618) 889-6894",
+    "servicePhone": "800752485"
+  },
+  "birthday": "1997-10-18T02:10:21.946Z",
+  "ip": "185.104.127.143",
+  "foo": "bar",
+  "profile": {
+    "about": "Kaukuol ha ade bataze baek bedesehic pehmaz uj ukisak asuput duhiz lu duoliwub ihozopdi seigatit tive in toroci. Olizu agoham kocarvu bo we huupi wi zetarki nitas lun nofek nurawi dil la bag gagdo oruthi. Fureh ku jithigev ewazizwek jeha gen oconobis coowa oti teto vetrir zezev.",
+    "bio": "Pela mondikuz tusfijfa javidar caiw muvida jotzepo ja facdom bicafi ava ono fema tebgocer. Ag kagre hoejgis bifosu ijibageh wavivi per umuvel izicen sozzegpe osowana ledorheg uwo co lu lehbikkiz gi lef. Va juhev delpuoz awo misnehpeb vokjiub van tetem pi puglepi vo etcohru setu gahi."
+  },
+  "apiKey": "2139d9bce8741747732bf540df28f1cea7d2ccc95d8399526b92ec9d9fab5c32",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
