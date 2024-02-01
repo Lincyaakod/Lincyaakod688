@@ -1,0 +1,26 @@
+{
+  "name": "Alejandro Ellis",
+  "age": 48,
+  "address": {
+    "street": "Batvo Trail",
+    "city": "Boboramu",
+    "state": "TN",
+    "zip": "65862"
+  },
+  "contact": {
+    "phone": "(743) 761-1428",
+    "servicePhone": "800855286"
+  },
+  "birthday": "1987-09-20T05:24:37.002Z",
+  "ip": "115.201.118.96",
+  "foo": "bar",
+  "profile": {
+    "about": "Duplofad cu wudnujpe batam curkok wavce li gosfu buladco adurawib sopewo kesarfi mofuz. Nostu kockacdog noceju pum ikejiwsok arovaori tistid sub kezuv fauw upu hacrikwu tamwolik ufapef. Ponbueca pi if owdo sarec fufab bozuh ben fohto upsatos fajic bofelil ujjo ockote.",
+    "bio": "Pilu poeve eluci fudfah su enu zi ewrumfek cadhohcaz acli zacpi zicoc abga olpec. Afvivuho zersu bibmoj ko tiguri orimuh fatsajle cisizi tojwahgel metug nimeto hidpi dor eceam. Diclofo dadga wigo ew inotikan wigaj mem ka refivvu zeohpiz koowuna focgah omravir."
+  },
+  "apiKey": "bcffb5f4d2e238685a793e48648ffe624d88c453f2b3b056e6ca5df02729c79c",
+  "currency": {
+    "code": "KRW",
+    "name": "Korea (South) Won"
+  }
+}
