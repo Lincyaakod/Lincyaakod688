@@ -1,0 +1,26 @@
+{
+  "name": "Kenneth Soto",
+  "age": 65,
+  "address": {
+    "street": "Nacumu Boulevard",
+    "city": "Jatodef",
+    "state": "WA",
+    "zip": "54411"
+  },
+  "contact": {
+    "phone": "(558) 963-5273",
+    "servicePhone": "800421221"
+  },
+  "birthday": "1987-06-27T04:09:46.766Z",
+  "ip": "132.91.134.192",
+  "foo": "bar",
+  "profile": {
+    "about": "Jadcef zuzra mouc ju ibeci uhjunici la tozijogu pe felvobbin pasi zepzafoc. Potofu ridjuwwib fizkeb kinoowi ziteko gospu uche duhgo momvacij kupzal joswe fu wekkehe dapgunu goed zuf ken nuva. Sicek wewderazu lej jo puas we wiajug wo oretiwa kucgekih gup mu oturarba vem rikuug cibek odu pek.",
+    "bio": "He paw gav zavbavil iku nuol bo zumgo geb pompibah ucwaaz bacsew. Zazovi wulu inel pebaomu jac jac tatiwgo oba luzuzkeh ugizu curjo jidav. Va ahokifak job hejko kesut dazeru gej jifo nohug irootote movuzuvat ronuv dorulu."
+  },
+  "apiKey": "c0dcebe308d81ee85b8d1fbeba0e79778032a29692a1e0ee6be09810d069cbf9",
+  "currency": {
+    "code": "QAR",
+    "name": "Qatar Riyal"
+  }
+}
