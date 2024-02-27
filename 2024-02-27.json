@@ -1,0 +1,26 @@
+{
+  "name": "Tommy Lane",
+  "age": 48,
+  "address": {
+    "street": "Icma Road",
+    "city": "Jehingow",
+    "state": "NY",
+    "zip": "09483"
+  },
+  "contact": {
+    "phone": "(473) 942-7744",
+    "servicePhone": "800491999"
+  },
+  "birthday": "1974-12-11T01:29:45.931Z",
+  "ip": "254.183.194.73",
+  "foo": "bar",
+  "profile": {
+    "about": "Riwsa ago gurbah lilav hufis rer gukjaf acifu bablo kabkocij pi tah buvim pakdebupu lu ihdezi da. Ifu ze for raec mok bitadi uze ze bugrun okiw iw ucasin bijor kotoaju madome. Eri bulra sezhinuf tu zire pi itweg zozo evukat sir tesikuz noh nuvuh rarol. Widiles huknava tibbocgu suacival tidri of dolime bu sunisugo susutdab okum sib. Vopnaepu letijkap ug adrebnah lopabu vizur cebweg ze du fuzewetor rulmefrow das ducepde forlol sov tihta. Tacpowow nipa wulgeksaj doubpe baza areiwi zetu ubsusga haj tekobcah ib mahkene izwulvil muzet jil rilocona vetir hew. Ud pobakwuf ped fakde vof semgafgok ire fitu gefitag amizoc bekeug laewope no si.",
+    "bio": "Guwusa kiwmemoz ke zegewe vonwijpo heg foipe ces titet wo nesmu owa hijoh. Deognin ugive verasmo haowa cudgi nefbas rossudup fi jile aco heccebra vepu gevije. Ho zejo zukipav igu it utjozwep eni acu bugabug tiurre jol fa ti cuzen oholonug wejdeep ge ovesizcog."
+  },
+  "apiKey": "6b827d5ed062b63e3e960e9978a243a8aab7adf18a143e606410be73a0d575a2",
+  "currency": {
+    "code": "SEK",
+    "name": "Sweden Krona"
+  }
+}
