@@ -1,0 +1,26 @@
+{
+  "name": "Nancy Higgins",
+  "age": 53,
+  "address": {
+    "street": "Orgi Square",
+    "city": "Jacoko",
+    "state": "MD",
+    "zip": "45603"
+  },
+  "contact": {
+    "phone": "(928) 213-8594",
+    "servicePhone": "800169645"
+  },
+  "birthday": "1961-06-21T19:04:44.025Z",
+  "ip": "145.16.139.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Mekpurus lop cikrek idu cohi kelid vopbe iwu jobige fetcilzoz emu ruw ahfibe. Gohi sakuv naw ajakunib kujon lilla obgobcod ca pegagnum haznoc obacit lusizauv zite. Wokah fowbifage abedurolo uge nenehul listipdu we ro ja fadfib anouki roh pipubhaw.",
+    "bio": "Si bewo waciboze sug haare mofus goahafo solvuegu eri nu futihmek kun caganik. Pa dubnizjur tusrosid hurab umopasa legjombus bi lo diwji jiic numzi dulhib ik volaj. Hi gu iwuec itufes fojicu ippa vahadev vav nethesec go vemwufuw la radokpab irbulan tetaz noufetij kur wev."
+  },
+  "apiKey": "e538dbbb9e169f41f245ce66a5335d08a39b9992bc1e4f79afb0e54ce19a23b9",
+  "currency": {
+    "code": "PKR",
+    "name": "Pakistan Rupee"
+  }
+}
