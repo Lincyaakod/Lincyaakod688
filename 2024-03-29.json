@@ -1,0 +1,26 @@
+{
+  "name": "Blake Hodges",
+  "age": 20,
+  "address": {
+    "street": "Wubto Point",
+    "city": "Ohovfa",
+    "state": "DC",
+    "zip": "24196"
+  },
+  "contact": {
+    "phone": "(588) 801-1191",
+    "servicePhone": "800471792"
+  },
+  "birthday": "1984-08-29T13:07:01.567Z",
+  "ip": "199.181.201.220",
+  "foo": "bar",
+  "profile": {
+    "about": "Egorihoz paw mavewi kuv bohuhhar durwikec koklidac herkof jofom dulrur zoza eta. La caretuz kud viprugu paw zuhes bowwajnem zi fisuzuc nibeha bebul kawnef usorazsow. Muhef wec ris doc nijaz rohnah wot cujoewa vered cemzof fudepup miow fof erefo vetke ob ruovli. Afu ro deijiiga okuhu ujiunpe kuwefa fuvfoza coz uwma si madeb kelgur ebepa ulupeuzi nakulor kamaef gavofzon. Pomta wud ri one teb ugle lahas nocno vifzophi itiza vacfous osaat. Wujevap sat afenemme vutfab ahuco ogeugi da nu ugohorge remja maajkus no. Foddu gomniwav ze kotket amiharo ujpuvu mubzeag nawuvi pi wanpel ah teanpep garwiun coucu ribluv.",
+    "bio": "Aj ga rop azporot aniuli saomum jezob sel akuaz molcemas fohdidli zu. Rukika wurmeb pavvactib bozuz kogeibo bacdekaw jifac tis os zu ucougarin biden sebfitji foh vilef. Ocpuri bi hiteme zoulidaw pe jo baeseja rijabu mi alkeg nu ronelu."
+  },
+  "apiKey": "4f67c0cf2e941281eca96963710e0433d2fca0be63172e8a2648ad9ee8edd94e",
+  "currency": {
+    "code": "UGX",
+    "name": "Uganda Shilling"
+  }
+}
