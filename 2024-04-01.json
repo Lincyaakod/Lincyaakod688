@@ -1,0 +1,26 @@
+{
+  "name": "Chester Wade",
+  "age": 56,
+  "address": {
+    "street": "Izrom Parkway",
+    "city": "Bobullor",
+    "state": "WA",
+    "zip": "18208"
+  },
+  "contact": {
+    "phone": "(482) 309-3423",
+    "servicePhone": "800492299"
+  },
+  "birthday": "1995-06-14T19:20:29.353Z",
+  "ip": "7.230.22.176",
+  "foo": "bar",
+  "profile": {
+    "about": "Awi ahes ijiajo vezesi se somhazit bepam sa zapzi suwivut memieb zikhudif mu evaav bohal lu niwic. Mecsah nop butu utiesinu vuvgikif hogil pamjic vimut hojiek varro vaarubor vizi. Dul kajahafi uzba zu riihupeb pit po fozuwolo si zuhajam zanhe lohnadni ceta wu pidig acisifoh. Tizir tot be ewelunwe onimospu dejmosi otolnep visisceg vuhne pohdop siheh ba basofjud asofov.",
+    "bio": "Piguz goziva uvse jofuh wilcowzah ligav ten raf jibbiah pe jerpebus ote ta tukifmu ob pari vepe nic. Suh aj vonrez ve we rob jizcat cico ralkocar irwib cuwanuli fiz jagitne apubivi ojnoh. Za buz cicoizi ohju kadtu koes afibekzi topimive pok gitva ihlifsoz gepropzej. Decfara poameric ewolucif nec zoz dertel nibkak livhugsus ra cus diz sumocak enoto zillije owease he ki. Law ba molciccim ughesum cewobri pih docol ratu nibu jilcojdin anoti bovwi gidbafor simi pivwig."
+  },
+  "apiKey": "7a93280c9289a62f17f5c34693ef6d02e45bf42c000b1a76d7ff38affa19738a",
+  "currency": {
+    "code": "HRK",
+    "name": "Croatia Kuna"
+  }
+}
