@@ -1,0 +1,26 @@
+{
+  "name": "Noah Casey",
+  "age": 42,
+  "address": {
+    "street": "Cehe Manor",
+    "city": "Adarhan",
+    "state": "NY",
+    "zip": "67765"
+  },
+  "contact": {
+    "phone": "(921) 673-9538",
+    "servicePhone": "800589232"
+  },
+  "birthday": "2005-08-27T14:49:57.253Z",
+  "ip": "191.213.6.82",
+  "foo": "bar",
+  "profile": {
+    "about": "Ahrov uro omo bofcarziz vopi mi zoffouza cagho obuti laguboj vu taw. Wud kah tow avetecav gokim voj janur be rorour musgadwip zahnohzun iluha hosubpug. Wi kis mevlupwo wogope wothek cinasa gagwurus pi jesretri vejiepa gocael tobase. Bigel ga kabbuv agakigos guf uzeite cezif usiko jakkijku caeh nazuif id mi beteg leahewiz. Jerti fo losgaw ekaduz liltezun sadnicup kic rihacwo luc aha vecfonju lojico punlow. Susaot rubri zi kusila joudgit oko amu avib wihof kuzighaf pece oz po iwuma.",
+    "bio": "Hichufiv seekiinu bubza cozpehjub va pictan mewhetvi vosok fohmo rorep semef ibudapgu. Gaheec agnedwul gor nuv wu tiejeon peg kiki keltipo hihuow jekgiw cogbeam tom larmikuh epete vactahbe ezatuih caat. Emewa vuztih jav de uswavo pa gujo digefeg rarjoji zojkoce ec matgu noruppa hafired ijeleh fuzeb tiuki bavuppon. Loltekew kizza satriaj jatojde mezid zozjutip vokku bo lag kurbo lof pisdu gum."
+  },
+  "apiKey": "2be2dccb8d6ffcefeb4053016388df001c9e89730777877c831456279b38329e",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
