@@ -1,0 +1,26 @@
+{
+  "name": "Mario Scott",
+  "age": 28,
+  "address": {
+    "street": "Hotih Boulevard",
+    "city": "Namuluc",
+    "state": "IN",
+    "zip": "50127"
+  },
+  "contact": {
+    "phone": "(581) 987-9109",
+    "servicePhone": "800124631"
+  },
+  "birthday": "1983-06-13T13:04:49.181Z",
+  "ip": "239.131.60.17",
+  "foo": "bar",
+  "profile": {
+    "about": "Efu da fuwe waralmip loak canilzef oguged fawiesu hamuv ulo ro ovipoz zuzzaned waam mudegu absuaz hilwafa budotkot. Iv sesekeg ziisata dop naczupej kaeni caem honzi suni uglujso wu me. Vija jecav jogbonog du ow rawo panubi fot mehah zifohe dahachon ke.",
+    "bio": "Cevutugut hed uc ujazeg roh pocma tovuknu tiegu edunapol mugili zedzu ni pe petug ujifsoj gis so wemur. Nim uh rochub nij tumor hohjip jisde pibfiol mafiburo vubafpa cak debev cafij. Uj pupe si he utcad zukucje epagid les ik pepsavos sut lienban velsiik wib voc kuc gupar."
+  },
+  "apiKey": "5fd6eef9e893327e28dd8390477b55d0734828b243ac2761a6bfd58f9309cbd0",
+  "currency": {
+    "code": "SOS",
+    "name": "Somalia Shilling"
+  }
+}
